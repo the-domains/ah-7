@@ -1,0 +1,28 @@
+name: 'AH#7'
+favicon: null
+layout_spectrum: 0.5321599382441491
+typography_spectrum: 0.6788618885912001
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7806506224442273
+  lightness: 0.11961870267987251
+  saturation: 0.8488341076299548
+  rhythmicContrast: 0.4590164953842759
+purpose: []
